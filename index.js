@@ -12,6 +12,6 @@ function countDown(start) {
   
   while (i >= 0) {
     console.log(i);
-    i++;
+    i--;
   }
 }
